@@ -46,3 +46,4 @@ Diana faz parecido: ela não exige saber quem você é. Mas se você quiser regi
 ⚡ `bc1qsawwace2ef97eklnv9snjflrluamkacwreynqz`
 
 Verifica em: https://mempool.space/address/bc1qsawwace2ef97eklnv9snjflrluamkacwreynqz
+2026-05-26 16:21:14
